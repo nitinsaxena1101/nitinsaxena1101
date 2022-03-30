@@ -3,4 +3,5 @@ hi, i'm Nitin Saxena, a passionate backend developer and a freelance software en
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 💬 ask me about anything, i am happy to help/ mentory;
+
 💼 any freelance work? do reach, email :)
